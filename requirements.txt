@@ -1,0 +1,5 @@
+deepspeed
+peft
+vllm
+transformers
+torch
