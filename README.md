@@ -198,6 +198,7 @@ Evaluate using ChatGPT API: First provide your openai_api_key and base_url in ev
 ```python
 python evaluations/chatgpt_acc.py --input_file results/downstream_tasks/freshqa_without_false_premise_time_change_llama2_7b_chat_als_ret.json --output_file results/downstream_tasks/test.json
 ```
+We use [GPTWrapper](https://github.com/Luther-Sparks/GPTWrapper) for ChatGPT API calling. Thanks to Mianqiu~
 
 #### AR-Bench
 
